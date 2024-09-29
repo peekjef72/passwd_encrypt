@@ -23,3 +23,15 @@ go.work.sum
 
 # env file
 .env
+
+# vscode
+/.project
+/.settings
+/.vscode/
+/*.code-workspace
+
+/passwd_encrypt
+/*.exe
+
+/*.tar.gz
+/*.zip
